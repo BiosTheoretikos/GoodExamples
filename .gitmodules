@@ -1,3 +1,6 @@
 [submodule "Perl/myrepos"]
 	path = Perl/myrepos
 	url = git://myrepos.branchable.com/
+[submodule "Shell/rcm"]
+	path = Shell/rcm
+	url = https://github.com/thoughtbot/rcm.git
